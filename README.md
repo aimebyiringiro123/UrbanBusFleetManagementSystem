@@ -16,6 +16,8 @@ A distributed Java application for managing urban bus fleet operations.
 
 - Java
 - Java Swing
+- RMI
+- Hibernate ORM
 - MySQL
 - JDBC
 - NetBeans
@@ -44,9 +46,6 @@ git clone https://github.com/aimebyiringiro123/UrbanBusFleetManagementSystem.git
 
 4. Run the project
 
-## Screenshots
-
-(Add screenshots here later)
 
 ## Author
 
